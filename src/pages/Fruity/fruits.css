@@ -1,0 +1,35 @@
+@media screen and (max-width: 400px) {
+  .fruit-img {
+    height: 125px;
+  }
+}
+
+@media screen and (max-width: 375px) {
+  .fruit-img {
+    height: 115px;
+  }
+  .fruits-li {
+    padding: 0.8rem !important;
+  }
+  .basket-p {
+    padding: 0.8rem !important;
+  }
+  .basket-li {
+    padding: 0.8rem;
+  }
+}
+
+@media screen and (max-width: 350px) {
+  .fruit-img {
+    height: 100px;
+  }
+  .fruits-li {
+    padding: 0.7rem !important;
+  }
+  .basket-p {
+    padding: 0.7rem !important;
+  }
+  .basket-li {
+    padding: 0.7rem;
+  }
+}

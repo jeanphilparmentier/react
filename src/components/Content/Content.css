@@ -1,0 +1,15 @@
+h1 {
+  margin-bottom: 15px;
+}
+.container {
+  padding: 75px 15px 50px;
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+.dark-side ::before,
+::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
