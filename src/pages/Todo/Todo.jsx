@@ -37,7 +37,7 @@ export default function Todo() {
   }
   return (
     <div className="bg-slate-900 pb-10">
-      <div className="max-w-4xl mx-auto pt-20 px-6">
+      <div className="max-w-4xl mx-auto pt-20 py-20 px-6">
         <h1 className="text-3xl text-slate-100 mb-4">La To-do liste</h1>
 
         <form onSubmit={handleSubmit} className="mb-10">
